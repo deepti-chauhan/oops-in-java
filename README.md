@@ -7,11 +7,9 @@
 - 👩🏻‍👧🏻‍👦🏻 [Inheritance](#Inheritance)
 - 🧑🏾‍🤝‍🧑🏾 [Polymorphism](#Polymorphism)
 
-## Abstraction
+## 📖Abstraction
 
 In Java, abstraction is a concept that involves hiding the complex implementation details of an object and exposing only the essential features or functionalities to the outside world.
-
-### 🖊️important note : 
 
 We can achieve abstraction in java by either using `interface` or `abstract` classes.
 
@@ -75,15 +73,19 @@ We can achieve abstraction in java by either using `interface` or `abstract` cla
 
 **[⬆ Back to Top](#four-pillars-of-oops)**
 
-## Encapsulation
+## 🔗Encapsulation
 
 Encapsulation is a concept of `data binding` and `data hiding` into a single unit called class.
 
 **data binding** means 
 
+**[⬆ Back to Top](#four-pillars-of-oops)**
 
-## Inheritance
+## 👩🏻‍👧🏻‍👦🏻Inheritance
 
-## Polymorphism
+**[⬆ Back to Top](#four-pillars-of-oops)**
 
+## 🧑🏾‍🤝‍🧑🏾Polymorphism
+
+**[⬆ Back to Top](#four-pillars-of-oops)**
 
