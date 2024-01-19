@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # 🔗 oops-in-java
 
 ### 🏛️ [Four Pillars of OOPs](#four-pillars-of-oops) :
@@ -70,8 +72,8 @@ We can achieve abstraction in java by either using `interface` or `abstract` cla
         }
     }
     ```
+<p align="right"><a href="#readme-top">[⬆ Back to Top]</a></p>
 
-**[⬆ Back to Top](#four-pillars-of-oops)**
 
 ## 🔗Encapsulation
 
@@ -79,13 +81,13 @@ Encapsulation is a concept of `data binding` and `data hiding` into a single uni
 
 **data binding** means 
 
-**[⬆ Back to Top](#four-pillars-of-oops)**
+<p align="right"><a href="#readme-top">[⬆ Back to Top]</a></p>
 
 ## 👩🏻‍👧🏻‍👦🏻Inheritance
 
-**[⬆ Back to Top](#four-pillars-of-oops)**
+<p align="right"><a href="#readme-top">[⬆ Back to Top]</a></p>
 
 ## 🧑🏾‍🤝‍🧑🏾Polymorphism
 
-**[⬆ Back to Top](#four-pillars-of-oops)**
+**[⬆ Back to Top](##four-pillars-of-oops)**
 
