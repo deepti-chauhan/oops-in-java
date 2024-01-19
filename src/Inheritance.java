@@ -1,3 +1,5 @@
+package src;
+
 public class Inheritance {
     public static void main(String[] args) {
         Animal newAnimal = new Animal("bob");
