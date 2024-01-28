@@ -72,22 +72,45 @@ We can achieve abstraction in java by either using `interface` or `abstract` cla
         }
     }
     ```
-<p align="right"><a href="#readme-top">[⬆ Back to Top]</a></p>
+<p align="right"><a href="#readme-top">⬆ Back to Top</a></p>
 
 
 ## 🔗Encapsulation
 
 Encapsulation is a concept of `data binding` and `data hiding` into a single unit called class.
 
-**data binding** means 
+**data binding** means putting data members & member functions of an object into a single place called class.
+**data hiding** is achieved through encapsulation by using the access specifiers. 
 
-<p align="right"><a href="#readme-top">[⬆ Back to Top]</a></p>
+    Java has four access specifiers, which are as follows.
+        - public
+        - private
+        - protected
+        - default
+
+#### 🖊️Important points
+- encapsulation provides ultimate control over its data members & member functions.
+- `getters` and `setters`, we can achieve abstraction, which is hiding implementation details so that no one can use the fields directly in other classes or modules.
+- Encapsulation hides sensitive information and implementation details, providing controlled access to data and ensuring security and privacy.
+
+<p align="right"><a href="#readme-top">⬆ Back to Top</a></p>
 
 ## 👩🏻‍👧🏻‍👦🏻Inheritance
 
-<p align="right"><a href="#readme-top">[⬆ Back to Top]</a></p>
+In simple term inheritance means what ever belongs to your parents automatically belongs to you as well.
+In OOPs Inheritance means every child class that extends from its parent class has access to its parent class methods and data members except the private members.
+
+    Java does not support multiple inheritance, but we can achieve so by using interfaces. 
+#### 🖊️Important points
+
+- `super` keyword is used to refer (superclass) parent class object. 
+- It is used to call superclass methods, and to access the superclass constructor.
+- Superclass constructors are not inherited by subclass.
+- In the subclass constructor, call to superclass constructor is mandatory in this case, and it should be the first statement in the subclass constructor.
+
+<p align="right"><a href="#readme-top">⬆ Back to Top</a></p>
 
 ## 🧑🏾‍🤝‍🧑🏾Polymorphism
 
-**[⬆ Back to Top](##four-pillars-of-oops)**
+<p align="right"><a href="#readme-top">⬆ Back to Top</a></p>
 
